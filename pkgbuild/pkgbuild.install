@@ -18,7 +18,7 @@ declare white="\033[1;37m"
 declare bold="\033[1m"
 declare reset="\033[0m"
 declare WM='hyprland'
-declare pkgname=comm-"${WM}"
+declare pkgname=chili-"${WM}"
 declare IS_UPGRADE=false
 
 msg() {
